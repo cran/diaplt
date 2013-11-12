@@ -1,0 +1,8 @@
+39f7e2dcc17dbae4f95b123415cbfedf *DESCRIPTION
+8e7d5a441a671ef5ed4d10ec3ea2e1c9 *LICENSE
+105eff5d1e6256aa41dcea5a60b8b608 *NAMESPACE
+f654f9760a12d3e52405584e09598f4e *R/beadsplot.R
+74b02dfd7435e4bd859fa565ffc807eb *R/do.call.with.par.R
+7d6746b6453f11e6eb2c46a938cad97a *R/make.shadings.R
+9e0e33975b21ae1386e4c152c2e4d0a1 *man/beadsplot.Rd
+387458fe9bf17af3038a1f19fb70d44e *man/diaplt-package.Rd
