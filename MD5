@@ -1,9 +1,9 @@
-3e05bd8104d36c2440b0c1d1eefb0269 *DESCRIPTION
+351c314436eb33404c30aea52b0cace1 *DESCRIPTION
 8e7d5a441a671ef5ed4d10ec3ea2e1c9 *LICENSE
 7a1ce5c66c352a140655f48fca7c7251 *NAMESPACE
 f654f9760a12d3e52405584e09598f4e *R/beadsplot.R
 74b02dfd7435e4bd859fa565ffc807eb *R/do.call.with.par.R
-7d6746b6453f11e6eb2c46a938cad97a *R/make.shadings.R
-76fc7ca138d3b44e1023b9c29a7a630a *build/partial.rdb
-9e0e33975b21ae1386e4c152c2e4d0a1 *man/beadsplot.Rd
-52c63b232bb5555db2ad90aa9857b19b *man/diaplt-package.Rd
+b37fb20a2c2ffe92634824aa3875aebd *R/make.shadings.R
+4d307f98951a9d0f6dce303dc29c1713 *build/partial.rdb
+f5b10a9a1752dfe9a30d9752abaaf6ad *man/beadsplot.Rd
+0a8de5d12a44334064001ab0d818a31e *man/diaplt-package.Rd
